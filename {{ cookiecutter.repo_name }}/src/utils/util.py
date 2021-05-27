@@ -14,6 +14,6 @@ def getParams(env: str = "loc", params: dict = {}) -> dict:
         -------
             dict
     """
-    path_conf = os.path.abspath(os.path.dirname(__file__) + "\\..\\..\\config\\")
+    path_conf = os.path.abspath(os.path.dirname(__file__) + "/../../config")
 
-    return yaml.load(open(f"{path_conf}\{env}-params.yaml"), Loader=yaml.FullLoader)
+    return yaml.load(open(f"{path_conf}/{env}-params.yaml"), Loader=yaml.FullLoader)
