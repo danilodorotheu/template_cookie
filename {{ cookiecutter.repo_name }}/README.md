@@ -5,7 +5,7 @@
 
 Project Organization
 ------------
-
+```
 .
 ├── bin                   <- Pasta com arquivos binarios ou executaveis
 ├── conf                  <- Pasta com arquivos de parametros e configuracao
@@ -37,5 +37,5 @@ Project Organization
 │   │   └── util.py
 │   └── wrapper.py            <- Script de execução do projeto
 └── test                  <- Pasta de testes do projeto 
-
+```
 --------
