@@ -1,5 +1,6 @@
 {
-    "repo_name": "project_name",
-    "author_name": "Your name (or your organization/company/team)",
-    "description": "A short description of the project."
+    "project_name": "Nome do projeto",
+    "repo_name": "Nome do repositorio do projeto",
+    "author_name": "Author do Projeto",
+    "description": "Descricao curta do projeto"
 }
