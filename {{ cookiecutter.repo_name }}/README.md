@@ -13,7 +13,6 @@ Project Organization
 │   ├── dev-params.yaml   <- Parametros de desenvolvimento      
 │   ├── hom-params.yaml   <- Parametros de homologacao
 │   └── prd-params.yaml   <- Parametros de producao
-├── data                  <- Pasta contendo dados de execucao
 ├── docs                  <- Pasta contendo os documentos do projeto
 ├── environment.yaml      <- Parametros de ambiente do conda, pacotes, etc.
 ├── models                <- Pasta contendo arquivos de modelos, pkl, etc
